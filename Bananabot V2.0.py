@@ -18,7 +18,7 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 
 
 # Instantiate the OpenAI client with your API key
-client = OpenAI(api_key='put your API key here!!!')
+client = OpenAI(api_key='put your API key here!!!!')
 
 
 # Define the coordinates of the region on the left monitor where you want to capture text
