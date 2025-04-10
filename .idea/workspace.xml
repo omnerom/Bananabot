@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="577bb7c0-2422-4208-8a09-54367ea2dd6d" name="Changes" comment="change stuff" />
+    <list default="true" id="577bb7c0-2422-4208-8a09-54367ea2dd6d" name="Changes" comment="update README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,13 +74,39 @@
       <option name="project" value="LOCAL" />
       <updated>1744052263546</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="idk">
+      <option name="closed" value="true" />
+      <created>1744326680666</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744326680666</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update README.md">
+      <option name="closed" value="true" />
+      <created>1744326737460</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744326737460</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update README.md">
+      <option name="closed" value="true" />
+      <created>1744326767727</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744326767727</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="add old files" />
     <MESSAGE value="change stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="change stuff" />
+    <MESSAGE value="idk" />
+    <MESSAGE value="update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
   </component>
 </project>
