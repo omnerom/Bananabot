@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="577bb7c0-2422-4208-8a09-54367ea2dd6d" name="Changes" comment="add old files">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mindustry data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mindustry data.txt" afterDir="false" />
-    </list>
+    <list default="true" id="577bb7c0-2422-4208-8a09-54367ea2dd6d" name="Changes" comment="change stuff" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,12 +66,21 @@
       <option name="project" value="LOCAL" />
       <updated>1744051801906</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change stuff">
+      <option name="closed" value="true" />
+      <created>1744052263546</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744052263546</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="add old files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add old files" />
+    <MESSAGE value="change stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="change stuff" />
   </component>
 </project>
