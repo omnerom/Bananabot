@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="577bb7c0-2422-4208-8a09-54367ea2dd6d" name="Changes" comment="update README.md" />
+    <list default="true" id="577bb7c0-2422-4208-8a09-54367ea2dd6d" name="Changes" comment="can this commit work please" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744326767727</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="can this commit work please">
+      <option name="closed" value="true" />
+      <created>1744327476201</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744327476201</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -107,6 +115,7 @@
     <MESSAGE value="change stuff" />
     <MESSAGE value="idk" />
     <MESSAGE value="update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
+    <MESSAGE value="can this commit work please" />
+    <option name="LAST_COMMIT_MESSAGE" value="can this commit work please" />
   </component>
 </project>
