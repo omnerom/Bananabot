@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="577bb7c0-2422-4208-8a09-54367ea2dd6d" name="Changes" comment="can this commit work please" />
+    <list default="true" id="577bb7c0-2422-4208-8a09-54367ea2dd6d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BananaBot-V1.py" beforeDir="false" afterPath="$PROJECT_DIR$/BananaBot-V1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,15 +28,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.BananaBot-V1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nomner AI V1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.BananaBot-V1.executor": "Run",
+    "Python.Bananabot V2.0.executor": "Run",
+    "Python.nomner AI V1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -106,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744327476201</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="stop">
+      <option name="closed" value="true" />
+      <created>1744392485508</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744392485508</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -116,6 +128,7 @@
     <MESSAGE value="idk" />
     <MESSAGE value="update README.md" />
     <MESSAGE value="can this commit work please" />
-    <option name="LAST_COMMIT_MESSAGE" value="can this commit work please" />
+    <MESSAGE value="stop" />
+    <option name="LAST_COMMIT_MESSAGE" value="stop" />
   </component>
 </project>
